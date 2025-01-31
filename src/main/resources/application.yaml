@@ -1,0 +1,7 @@
+spring:
+  application:
+    name:doccy
+  datasource:
+    url: "jdbc:mysql://localhost:3306/doccy"
+    username: "root"
+    password: "maksutka228"
